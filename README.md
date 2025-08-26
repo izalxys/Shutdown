@@ -1,23 +1,46 @@
-🎉 Script DDoS Premium Berbayar
-Animasi Banner
+# 🎉 Script DDoS Premium Berbayar
 
-Script ini berbayar dan digunakan untuk keperluan DDoS edukatif atau pengujian keamanan jaringan.
+<p align="center">
+  <img src="https://files.catbox.moe/ta9ds2.gif" alt="Animasi Banner" width="400"/>
+</p>
+
+Script ini **berbayar** dan digunakan untuk keperluan **DDoS edukatif** atau **pengujian keamanan jaringan**.  
 Jika kamu tertarik untuk membeli, silakan hubungi admin melalui tombol di bawah.
 
-🔗 Akses Cepat
-Masuk Grup WhatsApp
+---
 
-Chat Admin
+## 🔗 Akses Cepat
 
-Masuk Akun TikTok
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbBJVvy7dmecEyLn7H3K">
+    <img src="https://img.shields.io/badge/Masuk%20Grup%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Masuk Grup WhatsApp" />
+  </a>
+  <br/><br/>
+  <a href="https://wa.me/qr/TYVT4GF6HNTZK1">
+    <img src="https://img.shields.io/badge/Chat%20Admin-007AFF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat Admin" />
+  </a>
+  <br/><br/>
+  <a href="https://www.tiktok.com/@Izalmodz" target="_blank">
+    <img src="https://img.shields.io/badge/Masuk%20Akun%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Masuk Akun TikTok" />
+  </a>
+</p>
 
-💰 Harga Script
-Paket	Fitur	Harga
-⭐ Premium (tanpa enkripsi)	Full source code terbuka	35K IDR
-🔒 Biasa (pakai enkripsi)	Source code terenkripsi	15K IDR
-📩 Untuk pembelian, silakan klik tombol Chat Admin di atas dan pilih paket yang kamu inginkan.
+---
 
-⚙️ Cara Instalasi & Menjalankan Script
+## 💰 Harga Script
+
+| Paket                         | Fitur                     | Harga  |
+|------------------------------|---------------------------|--------|
+| ⭐ Premium (tanpa enkripsi)   | Full source code terbuka  | 35K IDR |
+| 🔒 Biasa (pakai enkripsi)     | Source code terenkripsi   | 15K IDR |
+
+📩 Untuk pembelian, silakan klik tombol **Chat Admin** di atas dan pilih paket yang kamu inginkan.
+
+---
+
+## ⚙️ Cara Instalasi & Menjalankan Script
+
+```bash
 pkg update && pkg upgrade -y
 pkg install git -y
 pkg install nodejs-lts -y
